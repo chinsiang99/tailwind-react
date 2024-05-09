@@ -29,7 +29,7 @@ const App = () => (
     <section className="padding bg-pale-blue">
       <CustomerReviews />
     </section>
-    <section className="padding-x sm:py-32 py-16 w-full bg-red-400">
+    <section className="padding-x sm:py-32 py-16 w-full bg-white">
       {/* note that sm:py-32 is like for at least sm, it will be 32 if not it will be 16 */}
       <Subscribe />
     </section>
